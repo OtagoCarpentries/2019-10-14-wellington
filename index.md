@@ -289,17 +289,7 @@ please preview your site before committing, and make sure to run
 
 <p>
   <b>Participants will be provided with a computer with the required software for this workshop.</b> The following instructions can be used to install the required software on your own computer after the workshop should you wish to.
-  To participate in a
-  {% if page.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
+  
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
