@@ -288,6 +288,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
+  Participants will be provided with a computer for this workshop. The following instructions can be used to install the required software on your own computer after the workshop should you wich to.
   To participate in a
   {% if page.carpentry == "swc" %}
   Software Carpentry
